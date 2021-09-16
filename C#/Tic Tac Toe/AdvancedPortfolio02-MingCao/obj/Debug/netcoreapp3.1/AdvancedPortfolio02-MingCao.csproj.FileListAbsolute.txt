@@ -1,0 +1,39 @@
+C:\Users\annie\Desktop\AdvancedPortfolio02-MingCao\AdvancedPortfolio02-MingCao\bin\Debug\netcoreapp3.1\AdvancedPortfolio02-MingCao.exe
+C:\Users\annie\Desktop\AdvancedPortfolio02-MingCao\AdvancedPortfolio02-MingCao\bin\Debug\netcoreapp3.1\AdvancedPortfolio02-MingCao.deps.json
+C:\Users\annie\Desktop\AdvancedPortfolio02-MingCao\AdvancedPortfolio02-MingCao\bin\Debug\netcoreapp3.1\AdvancedPortfolio02-MingCao.runtimeconfig.json
+C:\Users\annie\Desktop\AdvancedPortfolio02-MingCao\AdvancedPortfolio02-MingCao\bin\Debug\netcoreapp3.1\AdvancedPortfolio02-MingCao.runtimeconfig.dev.json
+C:\Users\annie\Desktop\AdvancedPortfolio02-MingCao\AdvancedPortfolio02-MingCao\bin\Debug\netcoreapp3.1\AdvancedPortfolio02-MingCao.dll
+C:\Users\annie\Desktop\AdvancedPortfolio02-MingCao\AdvancedPortfolio02-MingCao\bin\Debug\netcoreapp3.1\AdvancedPortfolio02-MingCao.pdb
+C:\Users\annie\Desktop\AdvancedPortfolio02-MingCao\AdvancedPortfolio02-MingCao\obj\Debug\netcoreapp3.1\AdvancedPortfolio02-MingCao.csprojAssemblyReference.cache
+C:\Users\annie\Desktop\AdvancedPortfolio02-MingCao\AdvancedPortfolio02-MingCao\obj\Debug\netcoreapp3.1\AdvancedPortfolio02-MingCao.csproj.CoreCompileInputs.cache
+C:\Users\annie\Desktop\AdvancedPortfolio02-MingCao\AdvancedPortfolio02-MingCao\obj\Debug\netcoreapp3.1\AdvancedPortfolio02-MingCao.AssemblyInfoInputs.cache
+C:\Users\annie\Desktop\AdvancedPortfolio02-MingCao\AdvancedPortfolio02-MingCao\obj\Debug\netcoreapp3.1\AdvancedPortfolio02-MingCao.AssemblyInfo.cs
+C:\Users\annie\Desktop\AdvancedPortfolio02-MingCao\AdvancedPortfolio02-MingCao\obj\Debug\netcoreapp3.1\AdvancedPortfolio02-MingCao.dll
+C:\Users\annie\Desktop\AdvancedPortfolio02-MingCao\AdvancedPortfolio02-MingCao\obj\Debug\netcoreapp3.1\AdvancedPortfolio02-MingCao.pdb
+C:\Users\annie\Desktop\AdvancedPortfolio02-MingCao\AdvancedPortfolio02-MingCao\obj\Debug\netcoreapp3.1\AdvancedPortfolio02-MingCao.genruntimeconfig.cache
+D:\Study\Ming\DMIT\Programs\Term 2 - CPSC1012 Programming Fundamentals\Assignments\AdvancedPortfolio02-MingCao\AdvancedPortfolio02-MingCao\bin\Debug\netcoreapp3.1\AdvancedPortfolio02-MingCao.exe
+D:\Study\Ming\DMIT\Programs\Term 2 - CPSC1012 Programming Fundamentals\Assignments\AdvancedPortfolio02-MingCao\AdvancedPortfolio02-MingCao\bin\Debug\netcoreapp3.1\AdvancedPortfolio02-MingCao.deps.json
+D:\Study\Ming\DMIT\Programs\Term 2 - CPSC1012 Programming Fundamentals\Assignments\AdvancedPortfolio02-MingCao\AdvancedPortfolio02-MingCao\bin\Debug\netcoreapp3.1\AdvancedPortfolio02-MingCao.runtimeconfig.json
+D:\Study\Ming\DMIT\Programs\Term 2 - CPSC1012 Programming Fundamentals\Assignments\AdvancedPortfolio02-MingCao\AdvancedPortfolio02-MingCao\bin\Debug\netcoreapp3.1\AdvancedPortfolio02-MingCao.runtimeconfig.dev.json
+D:\Study\Ming\DMIT\Programs\Term 2 - CPSC1012 Programming Fundamentals\Assignments\AdvancedPortfolio02-MingCao\AdvancedPortfolio02-MingCao\bin\Debug\netcoreapp3.1\AdvancedPortfolio02-MingCao.dll
+D:\Study\Ming\DMIT\Programs\Term 2 - CPSC1012 Programming Fundamentals\Assignments\AdvancedPortfolio02-MingCao\AdvancedPortfolio02-MingCao\bin\Debug\netcoreapp3.1\AdvancedPortfolio02-MingCao.pdb
+D:\Study\Ming\DMIT\Programs\Term 2 - CPSC1012 Programming Fundamentals\Assignments\AdvancedPortfolio02-MingCao\AdvancedPortfolio02-MingCao\obj\Debug\netcoreapp3.1\AdvancedPortfolio02-MingCao.csprojAssemblyReference.cache
+D:\Study\Ming\DMIT\Programs\Term 2 - CPSC1012 Programming Fundamentals\Assignments\AdvancedPortfolio02-MingCao\AdvancedPortfolio02-MingCao\obj\Debug\netcoreapp3.1\AdvancedPortfolio02-MingCao.csproj.CoreCompileInputs.cache
+D:\Study\Ming\DMIT\Programs\Term 2 - CPSC1012 Programming Fundamentals\Assignments\AdvancedPortfolio02-MingCao\AdvancedPortfolio02-MingCao\obj\Debug\netcoreapp3.1\AdvancedPortfolio02-MingCao.AssemblyInfoInputs.cache
+D:\Study\Ming\DMIT\Programs\Term 2 - CPSC1012 Programming Fundamentals\Assignments\AdvancedPortfolio02-MingCao\AdvancedPortfolio02-MingCao\obj\Debug\netcoreapp3.1\AdvancedPortfolio02-MingCao.AssemblyInfo.cs
+D:\Study\Ming\DMIT\Programs\Term 2 - CPSC1012 Programming Fundamentals\Assignments\AdvancedPortfolio02-MingCao\AdvancedPortfolio02-MingCao\obj\Debug\netcoreapp3.1\AdvancedPortfolio02-MingCao.dll
+D:\Study\Ming\DMIT\Programs\Term 2 - CPSC1012 Programming Fundamentals\Assignments\AdvancedPortfolio02-MingCao\AdvancedPortfolio02-MingCao\obj\Debug\netcoreapp3.1\AdvancedPortfolio02-MingCao.pdb
+D:\Study\Ming\DMIT\Programs\Term 2 - CPSC1012 Programming Fundamentals\Assignments\AdvancedPortfolio02-MingCao\AdvancedPortfolio02-MingCao\obj\Debug\netcoreapp3.1\AdvancedPortfolio02-MingCao.genruntimeconfig.cache
+E:\01 - Ming\DMIT\Programs\Term 2 - CPSC1012 Programming Fundamentals\Assignments\AdvancedPortfolio02-MingCao\AdvancedPortfolio02-MingCao\bin\Debug\netcoreapp3.1\AdvancedPortfolio02-MingCao.exe
+E:\01 - Ming\DMIT\Programs\Term 2 - CPSC1012 Programming Fundamentals\Assignments\AdvancedPortfolio02-MingCao\AdvancedPortfolio02-MingCao\bin\Debug\netcoreapp3.1\AdvancedPortfolio02-MingCao.deps.json
+E:\01 - Ming\DMIT\Programs\Term 2 - CPSC1012 Programming Fundamentals\Assignments\AdvancedPortfolio02-MingCao\AdvancedPortfolio02-MingCao\bin\Debug\netcoreapp3.1\AdvancedPortfolio02-MingCao.runtimeconfig.json
+E:\01 - Ming\DMIT\Programs\Term 2 - CPSC1012 Programming Fundamentals\Assignments\AdvancedPortfolio02-MingCao\AdvancedPortfolio02-MingCao\bin\Debug\netcoreapp3.1\AdvancedPortfolio02-MingCao.runtimeconfig.dev.json
+E:\01 - Ming\DMIT\Programs\Term 2 - CPSC1012 Programming Fundamentals\Assignments\AdvancedPortfolio02-MingCao\AdvancedPortfolio02-MingCao\bin\Debug\netcoreapp3.1\AdvancedPortfolio02-MingCao.dll
+E:\01 - Ming\DMIT\Programs\Term 2 - CPSC1012 Programming Fundamentals\Assignments\AdvancedPortfolio02-MingCao\AdvancedPortfolio02-MingCao\bin\Debug\netcoreapp3.1\AdvancedPortfolio02-MingCao.pdb
+E:\01 - Ming\DMIT\Programs\Term 2 - CPSC1012 Programming Fundamentals\Assignments\AdvancedPortfolio02-MingCao\AdvancedPortfolio02-MingCao\obj\Debug\netcoreapp3.1\AdvancedPortfolio02-MingCao.csproj.AssemblyReference.cache
+E:\01 - Ming\DMIT\Programs\Term 2 - CPSC1012 Programming Fundamentals\Assignments\AdvancedPortfolio02-MingCao\AdvancedPortfolio02-MingCao\obj\Debug\netcoreapp3.1\AdvancedPortfolio02-MingCao.AssemblyInfoInputs.cache
+E:\01 - Ming\DMIT\Programs\Term 2 - CPSC1012 Programming Fundamentals\Assignments\AdvancedPortfolio02-MingCao\AdvancedPortfolio02-MingCao\obj\Debug\netcoreapp3.1\AdvancedPortfolio02-MingCao.AssemblyInfo.cs
+E:\01 - Ming\DMIT\Programs\Term 2 - CPSC1012 Programming Fundamentals\Assignments\AdvancedPortfolio02-MingCao\AdvancedPortfolio02-MingCao\obj\Debug\netcoreapp3.1\AdvancedPortfolio02-MingCao.csproj.CoreCompileInputs.cache
+E:\01 - Ming\DMIT\Programs\Term 2 - CPSC1012 Programming Fundamentals\Assignments\AdvancedPortfolio02-MingCao\AdvancedPortfolio02-MingCao\obj\Debug\netcoreapp3.1\AdvancedPortfolio02-MingCao.dll
+E:\01 - Ming\DMIT\Programs\Term 2 - CPSC1012 Programming Fundamentals\Assignments\AdvancedPortfolio02-MingCao\AdvancedPortfolio02-MingCao\obj\Debug\netcoreapp3.1\AdvancedPortfolio02-MingCao.pdb
+E:\01 - Ming\DMIT\Programs\Term 2 - CPSC1012 Programming Fundamentals\Assignments\AdvancedPortfolio02-MingCao\AdvancedPortfolio02-MingCao\obj\Debug\netcoreapp3.1\AdvancedPortfolio02-MingCao.genruntimeconfig.cache
