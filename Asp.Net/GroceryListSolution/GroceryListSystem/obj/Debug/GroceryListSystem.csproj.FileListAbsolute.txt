@@ -1,0 +1,13 @@
+E:\01 - Ming\GitHub\DMIT2018\2021-may-exercises-ming-cao-main\GroceryListSolution\GroceryListSystem\bin\Debug\GroceryListSystem.dll.config
+E:\01 - Ming\GitHub\DMIT2018\2021-may-exercises-ming-cao-main\GroceryListSolution\GroceryListSystem\bin\Debug\GroceryListSystem.dll
+E:\01 - Ming\GitHub\DMIT2018\2021-may-exercises-ming-cao-main\GroceryListSolution\GroceryListSystem\bin\Debug\GroceryListSystem.pdb
+E:\01 - Ming\GitHub\DMIT2018\2021-may-exercises-ming-cao-main\GroceryListSolution\GroceryListSystem\bin\Debug\EntityFramework.dll
+E:\01 - Ming\GitHub\DMIT2018\2021-may-exercises-ming-cao-main\GroceryListSolution\GroceryListSystem\bin\Debug\EntityFramework.SqlServer.dll
+E:\01 - Ming\GitHub\DMIT2018\2021-may-exercises-ming-cao-main\GroceryListSolution\GroceryListSystem\bin\Debug\FreeCode.Exceptions.dll
+E:\01 - Ming\GitHub\DMIT2018\2021-may-exercises-ming-cao-main\GroceryListSolution\GroceryListSystem\bin\Debug\EntityFramework.xml
+E:\01 - Ming\GitHub\DMIT2018\2021-may-exercises-ming-cao-main\GroceryListSolution\GroceryListSystem\bin\Debug\EntityFramework.SqlServer.xml
+E:\01 - Ming\GitHub\DMIT2018\2021-may-exercises-ming-cao-main\GroceryListSolution\GroceryListSystem\obj\Debug\GroceryListSystem.csproj.CoreCompileInputs.cache
+E:\01 - Ming\GitHub\DMIT2018\2021-may-exercises-ming-cao-main\GroceryListSolution\GroceryListSystem\obj\Debug\GroceryListSystem.csproj.CopyComplete
+E:\01 - Ming\GitHub\DMIT2018\2021-may-exercises-ming-cao-main\GroceryListSolution\GroceryListSystem\obj\Debug\GroceryListSystem.dll
+E:\01 - Ming\GitHub\DMIT2018\2021-may-exercises-ming-cao-main\GroceryListSolution\GroceryListSystem\obj\Debug\GroceryListSystem.pdb
+E:\01 - Ming\GitHub\DMIT2018\2021-may-exercises-ming-cao-main\GroceryListSolution\GroceryListSystem\obj\Debug\GroceryListSystem.csproj.AssemblyReference.cache
